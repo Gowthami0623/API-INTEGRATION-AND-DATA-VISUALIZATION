@@ -36,3 +36,6 @@ API integration combined with data visualization enables businesses and analysts
 Fetch real-time data (e.g. weather).
 Process vast datasets efficiently for meaningful analysis.
 Present insights in a visually compelling and actionable format.
+# OUTPUT:
+![Image](https://github.com/user-attachments/assets/92a7db68-42dc-4e0b-9005-cd9af2728da0)
+
