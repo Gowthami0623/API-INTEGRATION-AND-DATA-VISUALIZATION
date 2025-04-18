@@ -1,10 +1,10 @@
 # API Integration and Data Visualization
-## Company Name: CODTECH IT SOLUTION
-## Name: Gowthami D
-## Intern ID: CT04WN140
-## Domain Name: Python Programming
-## Duration: 4 Weeks
-## Mentor: Vaishali
+### Company Name: CODTECH IT SOLUTION
+### Name: Gowthami D
+### Intern ID: CT04WN140
+### Domain Name: Python Programming
+### Duration: 4 Weeks
+### Mentor: Vaishali
 
 ### Overview
 This project demonstrates the effective use of API integration and data visualization in Python programming. It involves fetching data from external APIs, processing it for analysis, and visualizing the insights using robust tools. The project aims to showcase practical implementation techniques that can enhance business operations and decision-making.
@@ -53,3 +53,7 @@ Real-time data collection and processing.
 Efficient handling of large datasets for analysis.
 
 Actionable insights presented in compelling visual formats.
+
+# OUTPUT:
+![Image](https://github.com/user-attachments/assets/15668e95-c6d9-4771-9522-b65ae4a468a8)
+
