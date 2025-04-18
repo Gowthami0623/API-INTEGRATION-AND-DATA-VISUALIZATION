@@ -1,12 +1,12 @@
-API-INTEGRATION-AND-DATA-VISUALIZATION
-COMPANY NAME : CODTECH IT SOLUTION
-NAME : GOWTHAMI D
-INTERN ID : CT04WN140
-DOMAIN NAME : PYTHON PROGRAMMING
-DURATION: 4 WEEKS
-MENTOR : VAISHALI 
+#API-INTEGRATION-AND-DATA-VISUALIZATION
+#COMPANY NAME : CODTECH IT SOLUTION
+#NAME : GOWTHAMI D
+#INTERN ID : CT04WN140
+#DOMAIN NAME : PYTHON PROGRAMMING
+#DURATION: 4 WEEKS
+#MENTOR : VAISHALI 
 
-API IntegratioN
+#API IntegratioN
 
 API integration is a way to fetch data from external services or systems through an Application Programming Interface (API). It allows Python programs to communicate with web services using HTTP requests. APIs often return data in a structured format, like JSON, which can be easily parsed and processed.
 
