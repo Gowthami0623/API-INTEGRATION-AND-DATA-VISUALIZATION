@@ -10,11 +10,14 @@
 
 API integration is a way to fetch data from external services or systems through an Application Programming Interface (API). It allows Python programs to communicate with web services using HTTP requests. APIs often return data in a structured format, like JSON, which can be easily parsed and processed.
 
-# Fetching Data: Data is retrieved by sending HTTP requests to the API's endpoint. For example, a weather API might provide temperature, humidity, and other details for a given location. You first ensure a successful connection with the API by checking the response status.
+# Fetching Data:
+Data is retrieved by sending HTTP requests to the API's endpoint. For example, a weather API might provide temperature, humidity, and other details for a given location. You first ensure a successful connection with the API by checking the response status.
 
-# Parsing Data: Once fetched, the raw data (usually in JSON format) is parsed and organized into a structure that Python can manipulate. This makes it easier to extract specific attributes or metrics from the dataset.
+# Parsing Data:
+Once fetched, the raw data (usually in JSON format) is parsed and organized into a structure that Python can manipulate. This makes it easier to extract specific attributes or metrics from the dataset.
 
-# Handling Errors: It is essential to anticipate and manage scenarios like invalid requests, missing data, or server errors. Robust error handling ensures that your program runs smoothly even when API responses are incomplete or incorrect.
+# Handling Errors:
+It is essential to anticipate and manage scenarios like invalid requests, missing data, or server errors. Robust error handling ensures that your program runs smoothly even when API responses are incomplete or incorrect.
 
 # Data Processing
 After fetching data from the API, the next step is to process it for analysis and visualization:
